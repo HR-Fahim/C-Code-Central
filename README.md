@@ -5,4 +5,3 @@ This Git repository houses a comprehensive collection of C programming codes. It
 **Repository Contents:**
 - Code Snippets: Small and useful C code snippets for common tasks.
 - Examples: Practical examples demonstrating different C programming techniques.
-- Projects: Full-fledged C projects showcasing real-world applications.
